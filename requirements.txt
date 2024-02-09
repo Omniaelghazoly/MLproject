@@ -1,12 +1,11 @@
 pandas
 numpy
+Lasso
+Ridge
 seaborn
 matplotlib
 scikit-learn
-
 xgboost
-dataclasses
-
 dill
 
 #-e .
